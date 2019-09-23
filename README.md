@@ -5,6 +5,7 @@ tutorial up in the place of actual content.
 In the **future** I'd like to use this page to show off some of my more impressive higher level course projects or personal side projects. 
 
 ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Messing around with the markdown stuff here
 
