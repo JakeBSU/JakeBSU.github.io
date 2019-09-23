@@ -4,8 +4,12 @@ tutorial up in the place of actual content.
 
 In the **future** I'd like to use this page to show off some of my more impressive higher level course projects or personal side projects. 
 
+Cat Photo
+
 ![cat](https://images.pexels.com/photos/2831538/pexels-photo-2831538.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
-Format: ![Alt Text](url)
+
+
+
 
 Messing around with the markdown stuff here
 
